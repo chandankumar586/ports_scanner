@@ -40,7 +40,9 @@ Python 3.x
 No additional packages are needed (only uses Python's built-in libraries).
 
 📸 Screenshot 
-![Screenshot 2025-05-29 144643](https://github.com/user-attachments/assets/1efb91cc-5805-4e21-9514-fdd3d32da9ab)
+
+![Screenshot 2025-05-29 150504](https://github.com/user-attachments/assets/6f2947f8-d9c0-4292-9a2e-fda906b49509)
+
 
 
 🎓 Purpose
